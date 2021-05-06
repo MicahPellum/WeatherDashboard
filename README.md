@@ -2,7 +2,7 @@
 
 
 # Description
-This is a Weather Dashboard where you can search any city and it will good you a five day forecast.
+This is a Weather Dashboard where you can search any city and it will give you a five day forecast.
 
 # Built Using
 
