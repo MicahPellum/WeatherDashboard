@@ -10,8 +10,7 @@ header {
 }
 
 .five-day-card {
-    /* background-color: #5967a6 !important; */
-    background-color:#5cb85c;
+    background-color: #5cb85c;
     width: 100%;
     height: 100%;
     color: white;
