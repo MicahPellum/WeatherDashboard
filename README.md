@@ -16,9 +16,9 @@ Server Side API's
 
 # Links
 
-Deployed- 
+Deployed- https://micahpellum.github.io/WeatherDashboard/
 
-Github Repo- 
+Github Repo- https://github.com/MicahPellum
 
 # Images
 
